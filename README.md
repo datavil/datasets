@@ -48,6 +48,9 @@ Feather: https://raw.githubusercontent.com/Zaf4/datasets/main/feather/starbucks.
 
 SOURCE: https://www.kaggle.com/datasets/shivamb/netflix-shows   
 LICENSE: CC0: Public Domain
+
+### Direct links
+
 CSV: https://raw.githubusercontent.com/Zaf4/datasets/main/csv/netflix.csv   
 Parquet: https://raw.githubusercontent.com/Zaf4/datasets/main/parquet/netflix.parquet   
 Feather: https://raw.githubusercontent.com/Zaf4/datasets/main/feather/netflix.feather   
