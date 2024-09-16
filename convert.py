@@ -21,7 +21,7 @@ def convert(path: Path, overwrite: bool = False)->None:
         return
     else:
         pl.read_csv(path, infer_schema_length=10_000).write_ipc(feather_path, compression='zstd')
-        print(f"{path.name:>20} --> {feather_path.name}") 
+        print(f"{path.name:<25} --> {feather_path.name}") 
     return
 
 
