@@ -1,6 +1,7 @@
-name,source,license,origin,size_csv,size_initial,size_after_processing,size_parquet_zstd,size_feather_zstd,parquet_size_rate,feather_size_rate
-iris,https://www.kaggle.com/datasets/himanshunakrani/iris-dataset,CC0: Public Domain,Kaggle,3858,6050,3650,2824,2543,0.7319854847071021,0.6591498185588388
-mpg,https://www.kaggle.com/datasets/uciml/autompg-dataset,CC0: Public Domain,Kaggle,18131,29651,15212,9809,10322,0.5410071148861066,0.5693011968451823
-titanic,https://www.kaggle.com/competitions/titanic,,Kaggle,61194,85862,52004,26200,32894,0.4281465503153904,0.5375363597738341
-starbucks,https://www.kaggle.com/datasets/harshalhonde/starbucks-reviews-dataset,CC0: Public Domain,Kaggle,26898,35697,25533,11343,11100,0.4217042159268347,0.41267008699531565
-netflix,https://www.kaggle.com/datasets/shivamb/netflix-shows,CC0: Public Domain,Kaggle,3399671,3265729,3212887,1120411,1510030,0.32956453727434215,0.44416945051447626
+name,source,license,origin
+iris,https://www.kaggle.com/datasets/himanshunakrani/iris-dataset,CC0: Public Domain,Kaggle
+mpg,https://www.kaggle.com/datasets/uciml/autompg-dataset,CC0: Public Domain,Kaggle
+titanic,https://www.kaggle.com/competitions/titanic,NOT SPECIFIED,Kaggle
+starbucks,https://www.kaggle.com/datasets/harshalhonde/starbucks-reviews-dataset,CC0: Public Domain,Kaggle
+netflix,https://www.kaggle.com/datasets/shivamb/netflix-shows,CC0: Public Domain,Kaggle
+pokemon,https://www.kaggle.com/datasets/rounakbanik/pokemon,CC0: Public Domain,Kaggle
