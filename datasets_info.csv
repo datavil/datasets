@@ -1,15 +1,15 @@
-name,source,license,origin
-iris,https://www.kaggle.com/datasets/himanshunakrani/iris-dataset,CC0: Public Domain,Kaggle
-mpg,https://www.kaggle.com/datasets/uciml/autompg-dataset,CC0: Public Domain,Kaggle
-titanic,https://www.kaggle.com/competitions/titanic,NOT SPECIFIED,Kaggle
-starbucks,https://www.kaggle.com/datasets/harshalhonde/starbucks-reviews-dataset,CC0: Public Domain,Kaggle
-netflix,https://www.kaggle.com/datasets/shivamb/netflix-shows,CC0: Public Domain,Kaggle
-pokemon,https://www.kaggle.com/datasets/rounakbanik/pokemon,CC0: Public Domain,Kaggle
-paris2024,https://www.kaggle.com/datasets/umerhaddii/paris-olympic-medalists-2024,CC0: Public Domain,Kaggle
-defects,https://www.kaggle.com/datasets/fahmidachowdhury/manufacturing-defects,CC BY 4.0,Kaggle
-penguins,https://github.com/allisonhorst/palmerpenguins,CC0 1.0 Universal,R-ecosystem
-flights,https://github.com/tidyverse/nycflights13,CC0: Public Domain,Tidyverse
-weather,https://github.com/tidyverse/nycflights13,CC0: Public Domain,Tidyverse
-planes,https://github.com/tidyverse/nycflights13,CC0: Public Domain,Tidyverse
-airports,https://github.com/tidyverse/nycflights13,CC0: Public Domain,Tidyverse
-airlines,https://github.com/tidyverse/nycflights13,CC0: Public Domain,Tidyverse
+name,source,license,origin,docs
+iris,https://www.kaggle.com/datasets/himanshunakrani/iris-dataset,CC0: Public Domain,Kaggle,https://www.kaggle.com/datasets/himanshunakrani/iris-dataset
+mpg,https://www.kaggle.com/datasets/uciml/autompg-dataset,CC0: Public Domain,Kaggle,https://www.kaggle.com/datasets/uciml/autompg-dataset
+titanic,https://www.kaggle.com/competitions/titanic,NOT SPECIFIED,Kaggle,https://www.kaggle.com/competitions/titanic
+starbucks,https://www.kaggle.com/datasets/harshalhonde/starbucks-reviews-dataset,CC0: Public Domain,Kaggle,https://www.kaggle.com/datasets/harshalhonde/starbucks-reviews-dataset
+netflix,https://www.kaggle.com/datasets/shivamb/netflix-shows,CC0: Public Domain,Kaggle,https://www.kaggle.com/datasets/shivamb/netflix-shows
+pokemon,https://www.kaggle.com/datasets/rounakbanik/pokemon,CC0: Public Domain,Kaggle,https://www.kaggle.com/datasets/rounakbanik/pokemon
+paris2024,https://www.kaggle.com/datasets/umerhaddii/paris-olympic-medalists-2024,CC0: Public Domain,Kaggle,https://www.kaggle.com/datasets/umerhaddii/paris-olympic-medalists-2024
+defects,https://www.kaggle.com/datasets/fahmidachowdhury/manufacturing-defects,CC BY 4.0,Kaggle,https://www.kaggle.com/datasets/fahmidachowdhury/manufacturing-defects
+penguins,https://github.com/allisonhorst/palmerpenguins,CC0 1.0 Universal,R-ecosystem,https://github.com/allisonhorst/palmerpenguins
+flights,https://github.com/tidyverse/nycflights13,CC0: Public Domain,Tidyverse,https://github.com/tidyverse/nycflights13
+weather,https://github.com/tidyverse/nycflights13,CC0: Public Domain,Tidyverse,https://github.com/tidyverse/nycflights13
+planes,https://github.com/tidyverse/nycflights13,CC0: Public Domain,Tidyverse,https://github.com/tidyverse/nycflights13
+airports,https://github.com/tidyverse/nycflights13,CC0: Public Domain,Tidyverse,https://github.com/tidyverse/nycflights13
+airlines,https://github.com/tidyverse/nycflights13,CC0: Public Domain,Tidyverse,https://github.com/tidyverse/nycflights13
