@@ -1,4 +1,4 @@
-name,source,license,origin,docs
+name,source,license,origin,doc
 iris,https://www.kaggle.com/datasets/himanshunakrani/iris-dataset,CC0: Public Domain,Kaggle,https://www.kaggle.com/datasets/himanshunakrani/iris-dataset
 mpg,https://www.kaggle.com/datasets/uciml/autompg-dataset,CC0: Public Domain,Kaggle,https://www.kaggle.com/datasets/uciml/autompg-dataset
 titanic,https://www.kaggle.com/competitions/titanic,NOT SPECIFIED,Kaggle,https://www.kaggle.com/competitions/titanic
@@ -13,3 +13,76 @@ weather,https://github.com/tidyverse/nycflights13,CC0: Public Domain,Tidyverse,h
 planes,https://github.com/tidyverse/nycflights13,CC0: Public Domain,Tidyverse,https://github.com/tidyverse/nycflights13
 airports,https://github.com/tidyverse/nycflights13,CC0: Public Domain,Tidyverse,https://github.com/tidyverse/nycflights13
 airlines,https://github.com/tidyverse/nycflights13,CC0: Public Domain,Tidyverse,https://github.com/tidyverse/nycflights13
+CollegeDistance,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/AER/CollegeDistance.html
+HealthInsurance,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/AER/HealthInsurance.html
+Journals,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/AER/Journals.html
+Mortgage,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/AER/Mortgage.html
+Municipalities,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/AER/Municipalities.html
+Arrests,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/carData/Arrests.html
+Chile,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/carData/Chile.html
+Pottery,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/carData/Pottery.html
+Salaries,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/carData/Salaries.html
+UN,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/carData/UN.html
+Wells,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/carData/Wells.html
+abortion,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/causaldata/abortion.html
+auto,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/causaldata/auto.html
+avocado,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/causaldata/avocado.html
+fishing,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/COUNT/fishing.html
+storms,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/dplyr/storms.html
+murders,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/dslabs/murders.html
+olive,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/dslabs/olive.html
+stars,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/dslabs/stars.html
+Gasoline,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/Ecdat/Gasoline.html
+Ketchup,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/Ecdat/Ketchup.html
+Train,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/Ecdat/Train.html
+Yogurt,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/Ecdat/Yogurt.html
+country_codes,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/gapminder/country_codes.html
+diamonds,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/ggplot2/diamonds.html
+constants,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/gt/constants.html
+films,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/gt/films.html
+Diabetes,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/heplots/Diabetes.html
+Cholera,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/HistData/Cholera.html
+epilepsy,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/HSAUR/epilepsy.html
+Forbes2000,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/HSAUR/Forbes2000.html
+water,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/HSAUR/water.html
+College,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/ISLR/College.html
+Credit,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/ISLR/Credit.html
+anorexia,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/MASS/anorexia.html
+crabs,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/MASS/crabs.html
+covid_testing,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/medicaldata/covid_testing.html
+Chicago,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/modeldata/Chicago.html
+concrete,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/modeldata/concrete.html
+oils,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/modeldata/oils.html
+Births,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/mosaicData/Births.html
+Gestation,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/mosaicData/Gestation.html
+Utilities,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/mosaicData/Utilities.html
+arthritis,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/multgee/arthritis.html
+babies,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/openintro/babies.html
+birds,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/openintro/birds.html
+cherry,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/openintro/cherry.html
+comics,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/openintro/comics.html
+cpu,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/openintro/cpu.html
+earthquakes,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/openintro/earthquakes.html
+gpa,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/openintro/gpa.html
+london_murders,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/openintro/london_murders.html
+nba_finals,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/openintro/nba_finals.html
+nba_heights,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/openintro/nba_heights.html
+oscars,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/openintro/oscars.html
+president,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/openintro/president.html
+wine,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/ordinal/wine.html
+absentee,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/pscl/absentee.html
+species,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/ratdat/species.html
+BeeStings,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/Stat2Data/BeeStings.html
+BirdCalcium,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/Stat2Data/BirdCalcium.html
+BirdNest,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/Stat2Data/BirdNest.html
+Caterpillars,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/Stat2Data/Caterpillars.html
+Contraceptives,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/Stat2Data/Contraceptives.html
+Fitch,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/Stat2Data/Fitch.html
+FruitFlies,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/Stat2Data/FruitFlies.html
+PorscheJaguar,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/Stat2Data/PorscheJaguar.html
+coffee_price,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/stevedata/coffee_price.html
+commodity_prices,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/stevedata/commodity_prices.html
+usa_migration,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/stevedata/usa_migration.html
+usa_states,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/stevedata/usa_states.html
+population,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/tidyr/population.html
+Alligator,https://github.com/vincentarelbundock/Rdatasets/,GPL-3.0,Rdatasets,https://vincentarelbundock.github.io/Rdatasets/doc/vcdExtra/Alligator.html
