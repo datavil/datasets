@@ -1,0 +1,1098 @@
+state,demVote,year,south
+Alabama,84.76,1932,true
+Arizona,67.03,1932,false
+Arkansas,86.27,1932,true
+California,58.41,1932,false
+Colorado,54.81,1932,false
+Connecticut,47.4,1932,false
+Delaware,48.11,1932,false
+Florida,74.49,1932,true
+Georgia,91.6,1932,true
+Idaho,58.7,1932,false
+Illinois,55.23,1932,false
+Indiana,54.67,1932,false
+Iowa,57.69,1932,false
+Kansas,53.56,1932,false
+Kentucky,59.06,1932,false
+Louisiana,92.79,1932,true
+Maine,43.19,1932,false
+Maryland,61.5,1932,false
+Massachusetts,50.64,1932,false
+Michigan,52.36,1932,false
+Minnesota,59.91,1932,false
+Mississippi,95.98,1932,true
+Missouri,63.69,1932,false
+Montana,58.8,1932,false
+Nebraska,62.98,1932,false
+Nevada,69.41,1932,false
+New Hampshire,48.99,1932,false
+New Jersey,49.48,1932,false
+New Mexico,62.72,1932,false
+New York,54.07,1932,false
+North Carolina,69.93,1932,true
+North Dakota,69.59,1932,false
+Ohio,49.88,1932,false
+Oklahoma,73.3,1932,false
+Oregon,58.0,1932,false
+Pennsylvania,45.33,1932,false
+Rhode Island,55.08,1932,false
+South Carolina,98.03,1932,true
+South Dakota,63.62,1932,false
+Tennessee,66.48,1932,true
+Texas,88.19,1932,true
+Utah,56.52,1932,false
+Vermont,41.08,1932,false
+Virginia,68.46,1932,true
+Washington,57.46,1932,false
+West Virginia,54.47,1932,false
+Wisconsin,63.46,1932,false
+Wyoming,56.07,1932,false
+Alabama,86.38,1936,true
+Arizona,69.85,1936,false
+Arkansas,81.79,1936,true
+California,66.95,1936,false
+Colorado,60.37,1936,false
+Connecticut,55.32,1936,false
+Delaware,54.62,1936,false
+Florida,76.08,1936,true
+Georgia,87.1,1936,true
+Idaho,62.96,1936,false
+Illinois,57.7,1936,false
+Indiana,56.63,1936,false
+Iowa,54.41,1936,false
+Kansas,53.67,1936,false
+Kentucky,58.51,1936,false
+Louisiana,88.82,1936,true
+Maine,41.52,1936,false
+Maryland,62.35,1936,false
+Massachusetts,51.22,1936,false
+Michigan,56.33,1936,false
+Minnesota,61.84,1936,false
+Mississippi,97.03,1936,true
+Missouri,60.76,1936,false
+Montana,69.28,1936,false
+Nebraska,57.14,1936,false
+Nevada,72.81,1936,false
+New Hampshire,49.73,1936,false
+New Jersey,59.54,1936,false
+New Mexico,62.69,1936,false
+New York,58.85,1936,false
+North Carolina,73.4,1936,true
+North Dakota,59.6,1936,false
+Ohio,57.99,1936,false
+Oklahoma,66.83,1936,false
+Oregon,64.41,1936,false
+Pennsylvania,56.88,1936,false
+Rhode Island,52.96,1936,false
+South Carolina,98.57,1936,true
+South Dakota,54.02,1936,false
+Tennessee,68.77,1936,true
+Texas,87.08,1936,true
+Utah,69.34,1936,false
+Vermont,43.24,1936,false
+Virginia,70.23,1936,true
+Washington,66.38,1936,false
+West Virginia,60.56,1936,false
+Wisconsin,63.8,1936,false
+Wyoming,60.58,1936,false
+Alabama,85.22,1940,true
+Arizona,63.49,1940,false
+Arkansas,78.44,1940,true
+California,57.44,1940,false
+Colorado,48.37,1940,false
+Connecticut,53.44,1940,false
+Delaware,54.7,1940,false
+Florida,73.99,1940,true
+Georgia,84.81,1940,true
+Idaho,54.36,1940,false
+Illinois,50.97,1940,false
+Indiana,49.03,1940,false
+Iowa,47.62,1940,false
+Kansas,42.4,1940,false
+Kentucky,57.45,1940,false
+Louisiana,85.88,1940,true
+Maine,48.77,1940,false
+Maryland,58.26,1940,false
+Massachusetts,53.11,1940,false
+Michigan,49.52,1940,false
+Minnesota,51.49,1940,false
+Mississippi,95.7,1940,true
+Missouri,52.27,1940,false
+Montana,58.78,1940,false
+Nebraska,42.81,1940,false
+Nevada,60.08,1940,false
+New Hampshire,53.22,1940,false
+New Jersey,51.55,1940,false
+New Mexico,56.59,1940,false
+New York,51.6,1940,false
+North Carolina,74.03,1940,true
+North Dakota,44.18,1940,false
+Ohio,52.2,1940,false
+Oklahoma,57.41,1940,false
+Oregon,53.7,1940,false
+Pennsylvania,53.23,1940,false
+Rhode Island,56.73,1940,false
+South Carolina,95.63,1940,true
+South Dakota,42.59,1940,false
+Tennessee,67.25,1940,true
+Texas,80.93,1940,true
+Utah,62.25,1940,false
+Vermont,44.92,1940,false
+Virginia,68.08,1940,true
+Washington,58.22,1940,false
+West Virginia,57.1,1940,false
+Wisconsin,50.15,1940,false
+Wyoming,52.82,1940,false
+Alabama,81.28,1944,true
+Arizona,58.8,1944,false
+Arkansas,69.95,1944,true
+California,56.48,1944,false
+Colorado,46.4,1944,false
+Connecticut,52.3,1944,false
+Delaware,54.38,1944,false
+Florida,70.29,1944,true
+Georgia,81.73,1944,true
+Idaho,51.55,1944,false
+Illinois,51.52,1944,false
+Indiana,46.73,1944,false
+Iowa,47.49,1944,false
+Kansas,39.18,1944,false
+Kentucky,54.45,1944,false
+Louisiana,80.59,1944,true
+Maine,47.45,1944,false
+Maryland,51.85,1944,false
+Massachusetts,52.8,1944,false
+Michigan,50.19,1944,false
+Minnesota,52.41,1944,false
+Mississippi,93.56,1944,true
+Missouri,51.37,1944,false
+Montana,54.28,1944,false
+Nebraska,41.42,1944,false
+Nevada,54.62,1944,false
+New Hampshire,52.11,1944,false
+New Jersey,50.31,1944,false
+New Mexico,53.47,1944,false
+New York,52.31,1944,false
+North Carolina,66.71,1944,true
+North Dakota,45.48,1944,false
+Ohio,49.82,1944,false
+Oklahoma,55.57,1944,false
+Oregon,51.78,1944,false
+Pennsylvania,51.14,1944,false
+Rhode Island,58.59,1944,false
+South Carolina,87.64,1944,true
+South Dakota,41.67,1944,false
+Tennessee,60.45,1944,true
+Texas,71.42,1944,true
+Utah,60.44,1944,false
+Vermont,42.93,1944,false
+Virginia,62.36,1944,true
+Washington,56.84,1944,false
+West Virginia,54.89,1944,false
+Wisconsin,48.57,1944,false
+Wyoming,48.77,1944,false
+Arizona,53.79,1948,false
+Arkansas,61.72,1948,true
+California,47.57,1948,false
+Colorado,51.88,1948,false
+Connecticut,47.91,1948,false
+Delaware,48.76,1948,false
+Florida,48.82,1948,true
+Georgia,60.8,1948,true
+Idaho,49.98,1948,false
+Illinois,50.07,1948,false
+Indiana,48.78,1948,false
+Iowa,50.31,1948,false
+Kansas,44.61,1948,false
+Kentucky,56.74,1948,false
+Louisiana,32.75,1948,true
+Maine,42.27,1948,false
+Maryland,48.01,1948,false
+Massachusetts,54.66,1948,false
+Michigan,47.57,1948,false
+Minnesota,57.16,1948,false
+Mississippi,10.09,1948,true
+Missouri,58.11,1948,false
+Montana,53.09,1948,false
+Nebraska,45.85,1948,false
+Nevada,50.37,1948,false
+New Hampshire,46.66,1948,false
+New Jersey,45.93,1948,false
+New Mexico,56.38,1948,false
+New York,45.01,1948,false
+North Carolina,58.02,1948,true
+North Dakota,43.41,1948,false
+Ohio,49.48,1948,false
+Oklahoma,62.75,1948,false
+Oregon,46.4,1948,false
+Pennsylvania,46.91,1948,false
+Rhode Island,57.59,1948,false
+South Carolina,24.14,1948,true
+South Dakota,47.04,1948,false
+Tennessee,49.14,1948,true
+Texas,65.96,1948,true
+Utah,53.98,1948,false
+Vermont,36.92,1948,false
+Virginia,47.89,1948,true
+Washington,52.61,1948,false
+West Virginia,57.32,1948,false
+Wisconsin,50.7,1948,false
+Wyoming,51.62,1948,false
+Alabama,64.55,1952,true
+Arizona,41.65,1952,false
+Arkansas,55.9,1952,true
+California,42.74,1952,false
+Colorado,38.96,1952,false
+Connecticut,43.91,1952,false
+Delaware,47.88,1952,false
+Florida,44.97,1952,true
+Georgia,69.66,1952,true
+Idaho,34.42,1952,false
+Illinois,44.94,1952,false
+Indiana,40.99,1952,false
+Iowa,35.59,1952,false
+Kansas,30.5,1952,false
+Kentucky,49.91,1952,false
+Louisiana,52.92,1952,true
+Maine,33.77,1952,false
+Maryland,43.83,1952,false
+Massachusetts,45.46,1952,false
+Michigan,43.97,1952,false
+Minnesota,44.11,1952,false
+Mississippi,60.44,1952,true
+Missouri,49.14,1952,false
+Montana,40.07,1952,false
+Nebraska,30.85,1952,false
+Nevada,38.55,1952,false
+New Hampshire,39.08,1952,false
+New Jersey,42.0,1952,false
+New Mexico,44.28,1952,false
+New York,43.55,1952,false
+North Carolina,53.91,1952,true
+North Dakota,28.39,1952,false
+Ohio,43.24,1952,false
+Oklahoma,45.41,1952,false
+Oregon,38.93,1952,false
+Pennsylvania,46.85,1952,false
+Rhode Island,49.05,1952,false
+South Carolina,50.72,1952,true
+South Dakota,30.73,1952,false
+Tennessee,49.71,1952,true
+Texas,46.69,1952,true
+Utah,41.07,1952,false
+Vermont,28.23,1952,false
+Virginia,43.36,1952,true
+Washington,44.69,1952,false
+West Virginia,51.92,1952,false
+Wisconsin,38.71,1952,false
+Wyoming,37.09,1952,false
+Alabama,56.52,1956,true
+Arizona,38.9,1956,false
+Arkansas,52.46,1956,true
+California,44.27,1956,false
+Colorado,39.26,1956,false
+Connecticut,36.26,1956,false
+Delaware,44.62,1956,false
+Florida,42.67,1956,true
+Georgia,66.41,1956,true
+Idaho,38.78,1956,false
+Illinois,40.29,1956,false
+Indiana,39.7,1956,false
+Iowa,40.65,1956,false
+Kansas,34.21,1956,false
+Kentucky,45.21,1956,false
+Louisiana,39.51,1956,true
+Maine,29.13,1956,false
+Maryland,39.94,1956,false
+Massachusetts,40.37,1956,false
+Michigan,44.15,1956,false
+Minnesota,46.08,1956,false
+Mississippi,58.22,1956,true
+Missouri,50.11,1956,false
+Montana,42.87,1956,false
+Nebraska,34.49,1956,false
+Nevada,42.03,1956,false
+New Hampshire,33.84,1956,false
+New Jersey,34.23,1956,false
+New Mexico,41.78,1956,false
+New York,38.73,1956,false
+North Carolina,50.66,1956,true
+North Dakota,38.09,1956,false
+Ohio,38.89,1956,false
+Oklahoma,44.87,1956,false
+Oregon,44.72,1956,false
+Pennsylvania,43.3,1956,false
+Rhode Island,41.74,1956,false
+South Carolina,45.37,1956,true
+South Dakota,41.61,1956,false
+Tennessee,48.6,1956,true
+Texas,43.98,1956,true
+Utah,35.44,1956,false
+Vermont,27.81,1956,false
+Virginia,38.36,1956,true
+Washington,45.44,1956,false
+West Virginia,45.92,1956,false
+Wisconsin,37.84,1956,false
+Wyoming,39.92,1956,false
+Alabama,56.83,1960,true
+Alaska,49.06,1960,false
+Arizona,44.36,1960,false
+Arkansas,50.19,1960,true
+California,49.55,1960,false
+Colorado,44.91,1960,false
+Connecticut,53.73,1960,false
+Delaware,50.63,1960,false
+Florida,48.49,1960,true
+Georgia,62.54,1960,true
+Hawaii,50.03,1960,false
+Idaho,46.22,1960,false
+Illinois,49.98,1960,false
+Indiana,44.6,1960,false
+Iowa,43.22,1960,false
+Kansas,39.1,1960,false
+Kentucky,46.41,1960,false
+Louisiana,50.42,1960,true
+Maine,42.95,1960,false
+Maryland,53.61,1960,false
+Massachusetts,60.22,1960,false
+Michigan,50.85,1960,false
+Minnesota,50.58,1960,false
+Mississippi,36.34,1960,true
+Missouri,50.26,1960,false
+Montana,48.6,1960,false
+Nebraska,37.93,1960,false
+Nevada,51.16,1960,false
+New Hampshire,46.58,1960,false
+New Jersey,49.96,1960,false
+New Mexico,50.15,1960,false
+New York,52.53,1960,false
+North Carolina,52.11,1960,true
+North Dakota,44.52,1960,false
+Ohio,46.72,1960,false
+Oklahoma,40.98,1960,false
+Oregon,47.32,1960,false
+Pennsylvania,51.06,1960,false
+Rhode Island,63.63,1960,false
+South Carolina,51.24,1960,true
+South Dakota,41.79,1960,false
+Tennessee,45.77,1960,true
+Texas,50.52,1960,true
+Utah,45.17,1960,false
+Vermont,41.35,1960,false
+Virginia,46.97,1960,true
+Washington,48.27,1960,false
+West Virginia,52.73,1960,false
+Wisconsin,48.05,1960,false
+Wyoming,44.99,1960,false
+Alaska,65.91,1964,false
+Arizona,49.45,1964,false
+Arkansas,56.06,1964,true
+California,59.11,1964,false
+Colorado,61.27,1964,false
+Connecticut,67.81,1964,false
+Delaware,60.95,1964,false
+DC,85.5,1964,false
+Florida,51.15,1964,true
+Georgia,45.87,1964,true
+Hawaii,78.76,1964,false
+Idaho,50.92,1964,false
+Illinois,59.47,1964,false
+Indiana,55.98,1964,false
+Iowa,61.88,1964,false
+Kansas,54.09,1964,false
+Kentucky,64.01,1964,false
+Louisiana,43.19,1964,true
+Maine,68.84,1964,false
+Maryland,65.47,1964,false
+Massachusetts,76.19,1964,false
+Michigan,66.7,1964,false
+Minnesota,63.76,1964,false
+Mississippi,12.86,1964,true
+Missouri,64.05,1964,false
+Montana,58.95,1964,false
+Nebraska,52.61,1964,false
+Nevada,58.58,1964,false
+New Hampshire,63.89,1964,false
+New Jersey,65.61,1964,false
+New Mexico,59.03,1964,false
+New York,68.56,1964,false
+North Carolina,56.15,1964,true
+North Dakota,57.97,1964,false
+Ohio,62.94,1964,false
+Oklahoma,55.75,1964,false
+Oregon,63.72,1964,false
+Pennsylvania,64.92,1964,false
+Rhode Island,80.87,1964,false
+South Carolina,41.11,1964,true
+South Dakota,55.61,1964,false
+Tennessee,55.5,1964,true
+Texas,63.32,1964,true
+Utah,54.71,1964,false
+Vermont,66.3,1964,false
+Virginia,53.54,1964,true
+Washington,61.97,1964,false
+West Virginia,67.94,1964,false
+Wisconsin,62.09,1964,false
+Wyoming,56.56,1964,false
+Alabama,18.72,1968,true
+Alaska,42.65,1968,false
+Arizona,35.02,1968,false
+Arkansas,30.36,1968,true
+California,44.74,1968,false
+Colorado,41.32,1968,false
+Connecticut,49.48,1968,false
+Delaware,41.61,1968,false
+DC,81.82,1968,false
+Florida,30.93,1968,true
+Georgia,26.75,1968,true
+Hawaii,59.83,1968,false
+Idaho,30.66,1968,false
+Illinois,44.15,1968,false
+Indiana,37.99,1968,false
+Iowa,40.82,1968,false
+Kansas,34.72,1968,false
+Kentucky,37.65,1968,false
+Louisiana,28.21,1968,true
+Maine,55.3,1968,false
+Maryland,43.59,1968,false
+Massachusetts,63.01,1968,false
+Michigan,48.18,1968,false
+Minnesota,54.0,1968,false
+Mississippi,23.02,1968,true
+Missouri,43.74,1968,false
+Montana,41.59,1968,false
+Nebraska,31.81,1968,false
+Nevada,39.29,1968,false
+New Hampshire,43.93,1968,false
+New Jersey,43.97,1968,false
+New Mexico,39.74,1968,false
+New York,49.74,1968,false
+North Carolina,29.24,1968,true
+North Dakota,38.23,1968,false
+Ohio,42.95,1968,false
+Oklahoma,31.99,1968,false
+Oregon,43.78,1968,false
+Pennsylvania,47.59,1968,false
+Rhode Island,64.03,1968,false
+South Carolina,29.61,1968,true
+South Dakota,41.96,1968,false
+Tennessee,28.13,1968,true
+Texas,41.14,1968,true
+Utah,37.07,1968,false
+Vermont,43.53,1968,false
+Virginia,32.49,1968,true
+Washington,47.23,1968,false
+West Virginia,49.6,1968,false
+Wisconsin,44.27,1968,false
+Wyoming,35.51,1968,false
+Alabama,25.54,1972,true
+Alaska,34.62,1972,false
+Arizona,31.87,1972,false
+Arkansas,30.69,1972,true
+California,41.54,1972,false
+Colorado,34.59,1972,false
+Connecticut,40.13,1972,false
+Delaware,39.18,1972,false
+DC,78.1,1972,false
+Florida,27.8,1972,true
+Georgia,24.65,1972,true
+Hawaii,37.52,1972,false
+Idaho,26.04,1972,false
+Illinois,40.51,1972,false
+Indiana,33.34,1972,false
+Iowa,40.48,1972,false
+Kansas,29.5,1972,false
+Kentucky,34.77,1972,false
+Louisiana,28.35,1972,true
+Maine,38.51,1972,false
+Maryland,37.36,1972,false
+Massachusetts,54.2,1972,false
+Michigan,41.82,1972,false
+Minnesota,46.07,1972,false
+Mississippi,19.63,1972,true
+Missouri,37.57,1972,false
+Montana,37.85,1972,false
+Nebraska,29.5,1972,false
+Nevada,36.32,1972,false
+New Hampshire,34.86,1972,false
+New Jersey,36.77,1972,false
+New Mexico,36.53,1972,false
+New York,41.18,1972,false
+North Carolina,28.89,1972,true
+North Dakota,35.79,1972,false
+Ohio,38.07,1972,false
+Oklahoma,24.0,1972,false
+Oregon,42.33,1972,false
+Pennsylvania,39.13,1972,false
+Rhode Island,46.81,1972,false
+South Carolina,27.72,1972,true
+South Dakota,45.52,1972,false
+Tennessee,29.75,1972,true
+Texas,33.25,1972,true
+Utah,26.39,1972,false
+Vermont,36.47,1972,false
+Virginia,30.12,1972,true
+Washington,38.64,1972,false
+West Virginia,36.39,1972,false
+Wisconsin,43.72,1972,false
+Wyoming,30.47,1972,false
+Alabama,55.73,1976,true
+Alaska,35.65,1976,false
+Arizona,39.8,1976,false
+Arkansas,64.96,1976,true
+California,47.57,1976,false
+Colorado,42.56,1976,false
+Connecticut,46.9,1976,false
+Delaware,51.98,1976,false
+DC,81.63,1976,false
+Florida,51.93,1976,true
+Georgia,66.74,1976,true
+Hawaii,50.59,1976,false
+Idaho,36.78,1976,false
+Illinois,48.13,1976,false
+Indiana,45.7,1976,false
+Iowa,48.46,1976,false
+Kansas,44.94,1976,false
+Kentucky,52.75,1976,false
+Louisiana,51.73,1976,true
+Maine,48.07,1976,false
+Maryland,52.75,1976,false
+Massachusetts,56.11,1976,false
+Michigan,46.44,1976,false
+Minnesota,54.9,1976,false
+Mississippi,49.56,1976,true
+Missouri,51.1,1976,false
+Montana,45.4,1976,false
+Nebraska,38.46,1976,false
+Nevada,45.81,1976,false
+New Hampshire,43.47,1976,false
+New Jersey,47.92,1976,false
+New Mexico,48.07,1976,false
+New York,51.87,1976,false
+North Carolina,55.24,1976,true
+North Dakota,45.79,1976,false
+Ohio,48.92,1976,false
+Oklahoma,48.75,1976,false
+Oregon,47.62,1976,false
+Pennsylvania,50.4,1976,false
+Rhode Island,55.36,1976,false
+South Carolina,56.17,1976,true
+South Dakota,48.91,1976,false
+Tennessee,55.94,1976,true
+Texas,51.14,1976,true
+Utah,33.65,1976,false
+Vermont,43.11,1976,false
+Virginia,47.96,1976,true
+Washington,46.11,1976,false
+West Virginia,58.05,1976,false
+Wisconsin,49.44,1976,false
+Wyoming,39.81,1976,false
+Alabama,47.45,1980,true
+Alaska,26.41,1980,false
+Arizona,28.24,1980,false
+Arkansas,47.52,1980,true
+California,35.91,1980,false
+Colorado,31.07,1980,false
+Connecticut,38.52,1980,false
+Delaware,44.83,1980,false
+DC,74.82,1980,false
+Florida,38.5,1980,true
+Georgia,55.79,1980,true
+Hawaii,44.8,1980,false
+Idaho,25.19,1980,false
+Illinois,41.72,1980,false
+Indiana,37.65,1980,false
+Iowa,38.6,1980,false
+Kansas,33.29,1980,false
+Kentucky,47.61,1980,false
+Louisiana,45.75,1980,true
+Maine,42.25,1980,false
+Maryland,47.14,1980,false
+Massachusetts,41.75,1980,false
+Michigan,42.5,1980,false
+Minnesota,46.5,1980,false
+Mississippi,48.09,1980,true
+Missouri,44.35,1980,false
+Montana,32.43,1980,false
+Nebraska,26.04,1980,false
+Nevada,26.89,1980,false
+New Hampshire,28.35,1980,false
+New Jersey,38.56,1980,false
+New Mexico,36.73,1980,false
+New York,43.99,1980,false
+North Carolina,47.18,1980,true
+North Dakota,26.26,1980,false
+Ohio,40.91,1980,false
+Oklahoma,34.97,1980,false
+Oregon,38.67,1980,false
+Pennsylvania,42.48,1980,false
+Rhode Island,47.67,1980,false
+South Carolina,48.14,1980,true
+South Dakota,31.69,1980,false
+Tennessee,48.41,1980,true
+Texas,41.42,1980,true
+Utah,20.57,1980,false
+Vermont,38.42,1980,false
+Virginia,40.31,1980,true
+Washington,37.32,1980,false
+West Virginia,49.81,1980,false
+Wisconsin,43.18,1980,false
+Wyoming,27.97,1980,false
+Alabama,38.28,1984,true
+Alaska,29.87,1984,false
+Arizona,32.54,1984,false
+Arkansas,38.29,1984,true
+California,41.27,1984,false
+Colorado,35.12,1984,false
+Connecticut,38.83,1984,false
+Delaware,39.93,1984,false
+DC,85.38,1984,false
+Florida,34.66,1984,true
+Georgia,39.78,1984,true
+Hawaii,43.82,1984,false
+Idaho,26.39,1984,false
+Illinois,43.3,1984,false
+Indiana,37.68,1984,false
+Iowa,45.89,1984,false
+Kansas,32.6,1984,false
+Kentucky,39.4,1984,false
+Louisiana,38.18,1984,true
+Maine,38.78,1984,false
+Maryland,47.02,1984,false
+Massachusetts,48.43,1984,false
+Michigan,40.24,1984,false
+Minnesota,49.72,1984,false
+Mississippi,37.42,1984,true
+Missouri,39.98,1984,false
+Montana,38.18,1984,false
+Nebraska,28.81,1984,false
+Nevada,31.97,1984,false
+New Hampshire,30.94,1984,false
+New Jersey,39.2,1984,false
+New Mexico,39.23,1984,false
+New York,45.83,1984,false
+North Carolina,37.89,1984,true
+North Dakota,33.8,1984,false
+Ohio,40.14,1984,false
+Oklahoma,30.67,1984,false
+Oregon,43.74,1984,false
+Pennsylvania,45.99,1984,false
+Rhode Island,48.02,1984,false
+South Carolina,35.57,1984,true
+South Dakota,36.53,1984,false
+Tennessee,41.57,1984,true
+Texas,36.11,1984,true
+Utah,24.68,1984,false
+Vermont,40.81,1984,false
+Virginia,37.09,1984,true
+Washington,42.86,1984,false
+West Virginia,44.6,1984,false
+Wisconsin,45.02,1984,false
+Wyoming,28.24,1984,false
+Alabama,39.86,1988,true
+Alaska,36.27,1988,false
+Arizona,38.74,1988,false
+Arkansas,42.19,1988,true
+California,47.56,1988,false
+Colorado,45.28,1988,false
+Connecticut,46.87,1988,false
+Delaware,43.48,1988,false
+DC,82.65,1988,false
+Florida,38.51,1988,true
+Georgia,39.5,1988,true
+Hawaii,54.27,1988,false
+Idaho,36.01,1988,false
+Illinois,48.6,1988,false
+Indiana,39.69,1988,false
+Iowa,54.71,1988,false
+Kansas,42.56,1988,false
+Kentucky,43.88,1988,false
+Louisiana,44.06,1988,true
+Maine,43.88,1988,false
+Maryland,48.2,1988,false
+Massachusetts,53.23,1988,false
+Michigan,45.67,1988,false
+Minnesota,52.91,1988,false
+Mississippi,39.07,1988,true
+Missouri,47.84,1988,false
+Montana,46.2,1988,false
+Nebraska,39.2,1988,false
+Nevada,37.92,1988,false
+New Hampshire,36.29,1988,false
+New Jersey,42.6,1988,false
+New Mexico,46.9,1988,false
+New York,51.62,1988,false
+North Carolina,41.71,1988,true
+North Dakota,42.97,1988,false
+Ohio,44.15,1988,false
+Oklahoma,41.28,1988,false
+Oregon,51.28,1988,false
+Pennsylvania,48.39,1988,false
+Rhode Island,55.64,1988,false
+South Carolina,37.58,1988,true
+South Dakota,46.51,1988,false
+Tennessee,41.55,1988,true
+Texas,43.35,1988,true
+Utah,32.05,1988,false
+Vermont,47.58,1988,false
+Virginia,39.23,1988,true
+Washington,50.05,1988,false
+West Virginia,52.2,1988,false
+Wisconsin,51.41,1988,false
+Wyoming,38.01,1988,false
+Alabama,40.88,1992,true
+Alaska,30.29,1992,false
+Arizona,36.52,1992,false
+Arkansas,53.21,1992,true
+California,46.01,1992,false
+Colorado,40.13,1992,false
+Connecticut,42.21,1992,false
+Delaware,43.51,1992,false
+DC,84.64,1992,false
+Florida,39.0,1992,true
+Georgia,43.47,1992,true
+Hawaii,48.09,1992,false
+Idaho,28.42,1992,false
+Illinois,48.58,1992,false
+Indiana,36.79,1992,false
+Iowa,43.29,1992,false
+Kansas,33.74,1992,false
+Kentucky,44.55,1992,false
+Louisiana,45.58,1992,true
+Maine,38.77,1992,false
+Maryland,49.8,1992,false
+Massachusetts,47.54,1992,false
+Michigan,43.77,1992,false
+Minnesota,43.48,1992,false
+Mississippi,40.77,1992,true
+Missouri,44.07,1992,false
+Montana,37.63,1992,false
+Nebraska,29.4,1992,false
+Nevada,37.36,1992,false
+New Hampshire,38.86,1992,false
+New Jersey,42.95,1992,false
+New Mexico,45.9,1992,false
+New York,49.73,1992,false
+North Carolina,42.65,1992,true
+North Dakota,32.18,1992,false
+Ohio,40.18,1992,false
+Oklahoma,34.02,1992,false
+Oregon,42.48,1992,false
+Pennsylvania,45.15,1992,false
+Rhode Island,47.04,1992,false
+South Carolina,39.88,1992,true
+South Dakota,37.14,1992,false
+Tennessee,47.08,1992,true
+Texas,37.08,1992,true
+Utah,24.65,1992,false
+Vermont,46.11,1992,false
+Virginia,40.59,1992,true
+Washington,43.4,1992,false
+West Virginia,48.41,1992,false
+Wisconsin,41.13,1992,false
+Wyoming,33.98,1992,false
+Alabama,43.16,1996,true
+Alaska,33.27,1996,false
+Arizona,46.52,1996,false
+Arkansas,53.74,1996,true
+California,51.1,1996,false
+Colorado,44.43,1996,false
+Connecticut,52.83,1996,false
+Delaware,51.82,1996,false
+DC,85.19,1996,false
+Florida,48.02,1996,true
+Georgia,45.84,1996,true
+Hawaii,56.93,1996,false
+Idaho,33.65,1996,false
+Illinois,54.32,1996,false
+Indiana,41.55,1996,false
+Iowa,50.26,1996,false
+Kansas,36.08,1996,false
+Kentucky,45.84,1996,false
+Louisiana,52.01,1996,true
+Maine,51.62,1996,false
+Maryland,54.25,1996,false
+Massachusetts,61.47,1996,false
+Michigan,51.69,1996,false
+Minnesota,51.1,1996,false
+Mississippi,44.08,1996,true
+Missouri,47.54,1996,false
+Montana,41.23,1996,false
+Nebraska,34.95,1996,false
+Nevada,43.93,1996,false
+New Hampshire,49.32,1996,false
+New Jersey,53.72,1996,false
+New Mexico,49.18,1996,false
+New York,59.47,1996,false
+North Carolina,44.04,1996,true
+North Dakota,40.13,1996,false
+Ohio,47.38,1996,false
+Oklahoma,40.45,1996,false
+Oregon,47.15,1996,false
+Pennsylvania,49.17,1996,false
+Rhode Island,59.71,1996,false
+South Carolina,43.96,1996,true
+South Dakota,43.03,1996,false
+Tennessee,48.0,1996,true
+Texas,43.83,1996,true
+Utah,33.3,1996,false
+Vermont,53.35,1996,false
+Virginia,45.15,1996,true
+Washington,49.84,1996,false
+West Virginia,51.51,1996,false
+Wisconsin,48.81,1996,false
+Wyoming,36.84,1996,false
+Alabama,41.59,2000,true
+Alaska,27.67,2000,false
+Arizona,44.67,2000,false
+Arkansas,45.86,2000,true
+California,53.45,2000,false
+Colorado,42.39,2000,false
+Connecticut,55.91,2000,false
+Delaware,54.96,2000,false
+DC,85.16,2000,false
+Florida,48.84,2000,true
+Georgia,42.98,2000,true
+Hawaii,55.79,2000,false
+Idaho,27.64,2000,false
+Illinois,54.6,2000,false
+Indiana,41.01,2000,false
+Iowa,48.54,2000,false
+Kansas,37.24,2000,false
+Kentucky,41.37,2000,false
+Louisiana,44.88,2000,true
+Maine,49.09,2000,false
+Maryland,56.57,2000,false
+Massachusetts,59.8,2000,false
+Michigan,51.28,2000,false
+Minnesota,47.91,2000,false
+Mississippi,40.7,2000,true
+Missouri,47.08,2000,false
+Montana,33.36,2000,false
+Nebraska,33.25,2000,false
+Nevada,45.98,2000,false
+New Hampshire,46.8,2000,false
+New Jersey,56.13,2000,false
+New Mexico,47.91,2000,false
+New York,60.21,2000,false
+North Carolina,43.2,2000,true
+North Dakota,33.05,2000,false
+Ohio,46.46,2000,false
+Oklahoma,38.43,2000,false
+Oregon,46.96,2000,false
+Pennsylvania,50.6,2000,false
+Rhode Island,60.99,2000,false
+South Carolina,40.91,2000,true
+South Dakota,37.56,2000,false
+Tennessee,47.28,2000,true
+Texas,37.98,2000,true
+Utah,26.34,2000,false
+Vermont,50.63,2000,false
+Virginia,44.44,2000,true
+Washington,50.13,2000,false
+West Virginia,45.59,2000,false
+Wisconsin,47.83,2000,false
+Wyoming,27.7,2000,false
+Alabama,36.84,2004,true
+Alaska,35.52,2004,false
+Arizona,44.4,2004,false
+Arkansas,44.55,2004,true
+California,54.31,2004,false
+Colorado,47.02,2004,false
+Connecticut,54.31,2004,false
+Delaware,53.35,2004,false
+DC,89.18,2004,false
+Florida,47.09,2004,true
+Georgia,41.37,2004,true
+Hawaii,54.01,2004,false
+Idaho,30.26,2004,false
+Illinois,54.82,2004,false
+Indiana,39.26,2004,false
+Iowa,49.23,2004,false
+Kansas,36.62,2004,false
+Kentucky,39.69,2004,false
+Louisiana,42.22,2004,true
+Maine,53.57,2004,false
+Maryland,55.91,2004,false
+Massachusetts,61.94,2004,false
+Michigan,51.23,2004,false
+Minnesota,51.09,2004,false
+Mississippi,39.75,2004,true
+Missouri,46.1,2004,false
+Montana,38.56,2004,false
+Nebraska,32.68,2004,false
+Nevada,47.88,2004,false
+New Hampshire,50.24,2004,false
+New Jersey,52.92,2004,false
+New Mexico,49.05,2004,false
+New York,58.37,2004,false
+North Carolina,43.58,2004,true
+North Dakota,35.5,2004,false
+Ohio,48.71,2004,false
+Oklahoma,34.43,2004,false
+Oregon,51.35,2004,false
+Pennsylvania,50.92,2004,false
+Rhode Island,59.42,2004,false
+South Carolina,40.9,2004,true
+South Dakota,38.44,2004,false
+Tennessee,42.53,2004,true
+Texas,38.22,2004,true
+Utah,26.0,2004,false
+Vermont,58.94,2004,false
+Virginia,45.48,2004,true
+Washington,52.82,2004,false
+West Virginia,43.2,2004,false
+Wisconsin,49.7,2004,false
+Wyoming,29.07,2004,false
+Alabama,38.74,2008,true
+Alaska,37.89,2008,false
+Arizona,44.91,2008,false
+Arkansas,38.86,2008,true
+California,60.94,2008,false
+Colorado,53.66,2008,false
+Connecticut,60.59,2008,false
+Delaware,61.91,2008,false
+DC,92.46,2008,false
+Florida,50.91,2008,true
+Georgia,46.9,2008,true
+Hawaii,71.85,2008,false
+Idaho,35.91,2008,false
+Illinois,61.85,2008,false
+Indiana,49.86,2008,false
+Iowa,53.93,2008,false
+Kansas,41.57,2008,false
+Kentucky,41.15,2008,false
+Louisiana,39.93,2008,true
+Maine,57.71,2008,false
+Maryland,61.92,2008,false
+Massachusetts,61.8,2008,false
+Michigan,57.33,2008,false
+Minnesota,54.06,2008,false
+Mississippi,43.0,2008,true
+Missouri,49.23,2008,false
+Montana,47.11,2008,false
+Nebraska,41.6,2008,false
+Nevada,55.15,2008,false
+New Hampshire,54.13,2008,false
+New Jersey,57.14,2008,false
+New Mexico,56.91,2008,false
+New York,62.88,2008,false
+North Carolina,49.7,2008,true
+North Dakota,44.5,2008,false
+Ohio,51.38,2008,false
+Oklahoma,34.35,2008,false
+Oregon,56.75,2008,false
+Pennsylvania,54.47,2008,false
+Rhode Island,62.86,2008,false
+South Carolina,44.9,2008,true
+South Dakota,44.75,2008,false
+Tennessee,41.79,2008,true
+Texas,43.63,2008,true
+Utah,34.22,2008,false
+Vermont,67.46,2008,false
+Virginia,52.63,2008,true
+Washington,57.34,2008,false
+West Virginia,42.51,2008,false
+Wisconsin,56.22,2008,false
+Wyoming,32.54,2008,false
+Alabama,38.36,2012,true
+Alaska,40.81,2012,false
+Arizona,44.45,2012,false
+Arkansas,36.88,2012,true
+California,60.19,2012,false
+Colorado,51.45,2012,false
+Connecticut,58.06,2012,false
+DC,90.91,2012,false
+Delaware,58.61,2012,false
+Florida,49.91,2012,true
+Georgia,45.43,2012,true
+Hawaii,70.55,2012,false
+Idaho,32.4,2012,false
+Illinois,57.55,2012,false
+Indiana,43.85,2012,false
+Iowa,51.99,2012,false
+Kansas,37.99,2012,false
+Kentucky,37.8,2012,false
+Louisiana,40.58,2012,true
+Maine,56.27,2012,false
+Maryland,61.97,2012,false
+Massachusetts,60.65,2012,false
+Michigan,54.09,2012,false
+Minnesota,52.65,2012,false
+Mississippi,43.79,2012,true
+Missouri,44.38,2012,false
+Montana,41.66,2012,false
+Nebraska,38.03,2012,false
+Nevada,52.36,2012,false
+New Hampshire,51.98,2012,false
+New Jersey,58.25,2012,false
+New Mexico,52.99,2012,false
+New York,63.33,2012,false
+North Carolina,48.35,2012,true
+North Dakota,38.7,2012,false
+Ohio,50.58,2012,false
+Oklahoma,33.23,2012,false
+Oregon,54.24,2012,false
+Pennsylvania,51.96,2012,false
+Rhode Island,62.7,2012,false
+South Carolina,44.09,2012,true
+South Dakota,39.87,2012,false
+Tennessee,39.04,2012,true
+Texas,41.37,2012,true
+Utah,24.67,2012,false
+Vermont,66.57,2012,false
+Virginia,51.16,2012,true
+Washington,55.81,2012,false
+West Virginia,35.53,2012,false
+Wisconsin,52.83,2012,false
+Wyoming,27.82,2012,false
+Alabama,34.36,2016,true
+Alaska,36.55,2016,false
+Arizona,44.58,2016,false
+Arkansas,33.65,2016,true
+California,61.48,2016,false
+Colorado,48.16,2016,false
+Connecticut,54.57,2016,false
+Delaware,53.09,2016,false
+DC,90.86,2016,false
+Florida,47.41,2016,true
+Georgia,45.35,2016,true
+Hawaii,62.22,2016,false
+Idaho,27.48,2016,false
+Illinois,55.24,2016,false
+Indiana,37.46,2016,false
+Iowa,41.74,2016,false
+Kansas,35.74,2016,false
+Kentucky,32.68,2016,false
+Louisiana,38.45,2016,true
+Maine,47.83,2016,false
+Maryland,60.33,2016,false
+Massachusetts,60.01,2016,false
+Michigan,47.03,2016,false
+Minnesota,46.44,2016,false
+Mississippi,40.06,2016,true
+Missouri,37.87,2016,false
+Montana,35.41,2016,false
+Nebraska,33.7,2016,false
+Nevada,47.92,2016,false
+New Hampshire,46.83,2016,false
+New Jersey,54.99,2016,false
+New Mexico,48.26,2016,false
+New York,59.0,2016,false
+North Carolina,46.17,2016,true
+North Dakota,27.23,2016,false
+Ohio,43.24,2016,false
+Oklahoma,28.93,2016,false
+Oregon,50.07,2016,false
+Pennsylvania,47.46,2016,false
+Rhode Island,54.41,2016,false
+South Carolina,40.67,2016,true
+South Dakota,31.74,2016,false
+Tennessee,34.72,2016,true
+Texas,43.12,2016,true
+Utah,27.17,2016,false
+Vermont,56.68,2016,false
+Virginia,49.75,2016,true
+Washington,52.54,2016,false
+West Virginia,26.18,2016,false
+Wisconsin,46.45,2016,false
